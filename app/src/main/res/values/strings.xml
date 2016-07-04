@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TakePhotoTest</string>
+    <string name="no_camera_app_error">No appropriate camera app</string>
+    <string name="file_create_error">Create file failed</string>
+    <string name="not_specify_a_directory">Must specify a directory!</string>
+    <string name="normal_error">Error!</string>
+    <string name="capture_photo">Capture</string>
+</resources>
